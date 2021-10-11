@@ -1,2 +1,2 @@
-# js-crawler
+# JS Crawler
 Basic JS Crawler Structure
